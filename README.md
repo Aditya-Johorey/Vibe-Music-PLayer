@@ -35,6 +35,6 @@ All the activities that you will perform will show up on the terminal. So you ca
 ![image](https://user-images.githubusercontent.com/77609727/142595169-32af1776-5f8b-4b94-b526-437e139cd42d.png)
 
 
-If you are using this as a real time application or as a project refference then do contact me in case of queries.
+If you are using this as a real time application or as a project refference then do contact me at ***adityajohorey@gmail.com*** in case of queries.
 
 Have a nice day!!😊
